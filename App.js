@@ -19,3 +19,15 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+// loading screen
+// start && settings screen
+// settings screen
+// game screen
+// // start position
+// // end position
+// // player
+// // enemy
+// // map
+// // timer
+// end game screen && high score
